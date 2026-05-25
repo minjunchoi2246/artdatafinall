@@ -1,0 +1,50 @@
+menu_id,rest_stop_id,store_name,menu_name,category,price_krw,is_signature,is_representative,available_hours,description,calories,data_quality
+M001,RS001,한식당,안성 한우국밥,Korean,9500,True,True,00:00-24:00,안성 지역 이미지를 활용한 든든한 국밥 메뉴,720,demo_seed
+M002,RS001,푸드코트,수제돈가스,Korean,10500,False,True,10:00-21:00,기본형 돈가스 메뉴,860,demo_seed
+M003,RS001,분식코너,소떡소떡,Snack,4500,False,False,08:00-22:00,운전 중 가볍게 먹기 좋은 꼬치 간식,420,demo_seed
+M004,RS001,면식당,우동,Noodle,6500,False,False,00:00-24:00,따뜻한 국물 면 메뉴,500,demo_seed
+M005,RS001,카페,아메리카노,Cafe,4000,False,False,00:00-24:00,장거리 운전자를 위한 기본 커피,15,demo_seed
+M006,RS002,한식당,안성맞춤 장터국밥,Korean,9000,True,True,00:00-24:00,상행 차량 이용객을 위한 국밥 메뉴,700,demo_seed
+M007,RS002,한식당,김치찌개,Korean,8500,False,False,09:00-21:00,매운 국물 식사 메뉴,680,demo_seed
+M008,RS002,분식코너,떡볶이,Snack,5000,False,False,10:00-22:00,간식형 분식 메뉴,480,demo_seed
+M009,RS002,베이커리,호두과자,Dessert,4000,False,True,07:00-23:00,휴게소 대표 간식류,330,demo_seed
+M010,RS003,푸드코트,서울 출발 비빔밥,Korean,9500,True,True,06:00-22:00,서울 출발 여행객을 위한 한식 메뉴,650,demo_seed
+M011,RS003,면식당,라면,Noodle,5000,False,False,00:00-24:00,빠르게 먹을 수 있는 면 메뉴,520,demo_seed
+M012,RS003,푸드코트,등심돈가스,Korean,10500,False,True,09:00-22:00,식사류 인기 메뉴,880,demo_seed
+M013,RS003,카페,카페라떼,Cafe,4800,False,False,00:00-24:00,우유가 들어간 커피 메뉴,180,demo_seed
+M014,RS004,한식당,하남 드림 갈비탕,Korean,11000,True,True,06:00-22:00,수도권 진입 전후에 어울리는 탕 메뉴,760,demo_seed
+M015,RS004,면식당,잔치국수,Noodle,7000,False,False,08:00-21:00,가벼운 국수 메뉴,470,demo_seed
+M016,RS004,분식코너,핫도그,Snack,4000,False,False,08:00-22:00,간편 간식 메뉴,390,demo_seed
+M017,RS004,카페,아메리카노,Cafe,4200,False,False,00:00-24:00,기본 커피 메뉴,15,demo_seed
+M018,RS005,한식당,덕평 소고기국밥,Korean,10000,True,True,06:00-22:00,테마형 휴게소의 대표 든든한 식사 메뉴,730,demo_seed
+M019,RS005,양식당,수제치즈돈가스,Korean,11500,False,True,10:00-21:00,치즈가 들어간 돈가스 메뉴,920,demo_seed
+M020,RS005,베이커리,소금빵,Dessert,3500,False,False,08:00-22:00,간단히 포장 가능한 베이커리 메뉴,280,demo_seed
+M021,RS005,카페,콜드브루,Cafe,5000,False,False,08:00-22:00,시원한 커피 메뉴,10,demo_seed
+M022,RS006,면식당,망향 우동,Noodle,7000,True,True,00:00-24:00,경부선 이동객에게 익숙한 국물 면 메뉴,520,demo_seed
+M023,RS006,한식당,육개장,Korean,9500,False,True,06:00-22:00,매콤한 국물 식사 메뉴,710,demo_seed
+M024,RS006,분식코너,김밥,Snack,4500,False,False,06:00-22:00,간편 식사 메뉴,360,demo_seed
+M025,RS006,카페,아메리카노,Cafe,4000,False,False,00:00-24:00,기본 커피 메뉴,15,demo_seed
+M026,RS007,한식당,천안 삼거리 불고기덮밥,Korean,9500,True,True,06:00-22:00,천안삼거리 이름을 활용한 덮밥 메뉴,690,demo_seed
+M027,RS007,면식당,어묵우동,Noodle,7500,False,True,00:00-24:00,어묵이 들어간 우동 메뉴,560,demo_seed
+M028,RS007,분식코너,호두과자,Dessert,4000,False,False,07:00-23:00,천안 이미지와 잘 맞는 간식류,330,demo_seed
+M029,RS007,카페,카페라떼,Cafe,4800,False,False,08:00-22:00,커피 메뉴,180,demo_seed
+M030,RS008,해산물코너,행담도 해물라면,Noodle,8500,True,True,06:00-22:00,서해안 조망과 어울리는 해물 콘셉트 면 메뉴,620,demo_seed
+M031,RS008,한식당,낙지비빔밥,Korean,10500,False,True,10:00-21:00,매콤한 해산물 비빔밥 메뉴,690,demo_seed
+M032,RS008,분식코너,왕새우튀김,Snack,6000,False,False,10:00-21:00,해안 콘셉트와 어울리는 튀김 간식,520,demo_seed
+M033,RS008,카페,아메리카노,Cafe,4500,False,False,00:00-24:00,커피 메뉴,15,demo_seed
+M034,RS009,한식당,서산 어리굴젓 백반,Korean,12000,True,True,06:00-21:00,서산 지역 특산 이미지를 활용한 백반 메뉴,780,demo_seed
+M035,RS009,면식당,바지락칼국수,Noodle,9000,False,True,09:00-21:00,서해안 이미지와 어울리는 칼국수 메뉴,620,demo_seed
+M036,RS009,분식코너,떡꼬치,Snack,3500,False,False,10:00-21:00,휴게소 간식 메뉴,360,demo_seed
+M037,RS009,카페,아메리카노,Cafe,4200,False,False,07:00-22:00,커피 메뉴,15,demo_seed
+M038,RS010,한식당,여주쌀 비빔밥,Korean,10000,True,True,06:00-22:00,여주쌀 이미지를 활용한 한식 메뉴,640,demo_seed
+M039,RS010,면식당,우동,Noodle,6500,False,False,00:00-24:00,따뜻한 면 메뉴,500,demo_seed
+M040,RS010,분식코너,핫바,Snack,3500,False,False,08:00-22:00,간편 간식,310,demo_seed
+M041,RS010,카페,아메리카노,Cafe,4000,False,False,00:00-24:00,커피 메뉴,15,demo_seed
+M042,RS011,한식당,횡성한우 국밥,Korean,12000,True,True,06:00-21:00,횡성 지역 이미지를 활용한 한우 콘셉트 국밥,760,demo_seed
+M043,RS011,면식당,막국수,Noodle,9000,False,False,10:00-20:00,강원 지역 이미지의 면 메뉴,540,demo_seed
+M044,RS012,한식당,문경 약돌돼지 덮밥,Korean,11000,True,True,06:00-21:00,문경 지역 이미지를 활용한 덮밥 메뉴,740,demo_seed
+M045,RS012,분식코너,감자핫도그,Snack,4500,False,False,09:00-21:00,포장형 간식 메뉴,430,demo_seed
+M046,RS013,한식당,칠곡 된장찌개,Korean,8500,True,True,06:00-22:00,경북권 한식 메뉴,660,demo_seed
+M047,RS013,면식당,라면,Noodle,5000,False,False,00:00-24:00,빠른 식사 메뉴,520,demo_seed
+M048,RS014,한식당,진영 돼지국밥,Korean,9500,True,True,06:00-22:00,남해선 이동객을 위한 국밥 메뉴,730,demo_seed
+M049,RS014,분식코너,김밥,Snack,4500,False,False,07:00-22:00,간편 식사 메뉴,360,demo_seed

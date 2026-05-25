@@ -1,0 +1,32 @@
+store_id,rest_stop_id,store_name,store_type,brand_name,opening_time,closing_time,is_24h,description,data_quality
+S001,RS001,한식당,Korean Food,Local Food Court,00:00,24:00,True,국밥·찌개 중심 식사 매장,demo_seed
+S002,RS001,푸드코트,Food Court,Rest Stop Food Court,10:00,21:00,False,돈가스·덮밥류 매장,demo_seed
+S003,RS001,분식코너,Snack,Snack Bar,08:00,22:00,False,소떡소떡·핫도그 등 간식 매장,demo_seed
+S004,RS001,카페,Cafe,Coffee Shop,00:00,24:00,True,커피·음료 매장,demo_seed
+S005,RS002,한식당,Korean Food,Local Food Court,00:00,24:00,True,상행 이용객 대상 한식 매장,demo_seed
+S006,RS002,분식코너,Snack,Snack Bar,10:00,22:00,False,분식·간식 매장,demo_seed
+S007,RS002,베이커리,Bakery,Bakery,07:00,23:00,False,호두과자·베이커리,demo_seed
+S008,RS003,푸드코트,Food Court,Rest Stop Food Court,06:00,22:00,False,다양한 식사류 매장,demo_seed
+S009,RS003,면식당,Noodle,Noodle Bar,00:00,24:00,True,라면·우동류,demo_seed
+S010,RS003,카페,Cafe,Coffee Shop,00:00,24:00,True,커피·음료,demo_seed
+S011,RS004,한식당,Korean Food,Local Food Court,06:00,22:00,False,탕·국밥 매장,demo_seed
+S012,RS004,면식당,Noodle,Noodle Bar,08:00,21:00,False,국수류 매장,demo_seed
+S013,RS004,카페,Cafe,Coffee Shop,00:00,24:00,True,커피 매장,demo_seed
+S014,RS005,한식당,Korean Food,Local Food Court,06:00,22:00,False,국밥 중심 매장,demo_seed
+S015,RS005,양식당,Western Food,Pork Cutlet House,10:00,21:00,False,돈가스 중심 매장,demo_seed
+S016,RS005,베이커리,Bakery,Bakery,08:00,22:00,False,빵·디저트 매장,demo_seed
+S017,RS006,면식당,Noodle,Noodle Bar,00:00,24:00,True,우동·라면 매장,demo_seed
+S018,RS006,한식당,Korean Food,Local Food Court,06:00,22:00,False,육개장·국밥 매장,demo_seed
+S019,RS007,한식당,Korean Food,Local Food Court,06:00,22:00,False,덮밥·국밥 매장,demo_seed
+S020,RS007,면식당,Noodle,Noodle Bar,00:00,24:00,True,우동류 매장,demo_seed
+S021,RS008,해산물코너,Noodle,Seafood Noodle Bar,06:00,22:00,False,해물라면·해산물 메뉴,demo_seed
+S022,RS008,한식당,Korean Food,Local Food Court,10:00,21:00,False,비빔밥·백반류,demo_seed
+S023,RS008,카페,Cafe,Coffee Shop,00:00,24:00,True,커피·음료,demo_seed
+S024,RS009,한식당,Korean Food,Local Food Court,06:00,21:00,False,백반·찌개류,demo_seed
+S025,RS009,면식당,Noodle,Noodle Bar,09:00,21:00,False,칼국수·우동,demo_seed
+S026,RS010,한식당,Korean Food,Local Food Court,06:00,22:00,False,비빔밥·국밥,demo_seed
+S027,RS010,면식당,Noodle,Noodle Bar,00:00,24:00,True,우동·라면,demo_seed
+S028,RS011,한식당,Korean Food,Local Food Court,06:00,21:00,False,한우 콘셉트 메뉴,demo_seed
+S029,RS012,한식당,Korean Food,Local Food Court,06:00,21:00,False,지역 콘셉트 한식,demo_seed
+S030,RS013,한식당,Korean Food,Local Food Court,06:00,22:00,False,한식 메뉴,demo_seed
+S031,RS014,한식당,Korean Food,Local Food Court,06:00,22:00,False,국밥 메뉴,demo_seed
